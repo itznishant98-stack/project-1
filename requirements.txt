@@ -1,1 +1,7 @@
-streamlit
+fastapi
+uvicorn
+pydantic
+python-dotenv
+aiohttp
+supabase
+openai
